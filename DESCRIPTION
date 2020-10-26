@@ -5,7 +5,7 @@ Version: 1.1
 Date: 2020-10-26
 Author: Rohit Arora
 Maintainer: Rohit Arora <emailrohitarora@gmail.com>
-Description:  We implement a collection of techniques for estimating convariance matrices. 
+Description: We implement a collection of techniques for estimating convariance matrices. 
               Covariance matrices can be built using missing data. Stambaugh Estimation and 
               FMMC methods can be used to construct such matrices. Covariance matrices can 
               be built by denoising or shrinking the eigenvalues of a sample covariance 
@@ -42,3 +42,4 @@ Imports:
 Depends: mvtnorm, RMTstat, grid
 NeedsCompilation: yes
 Additional_repositories: http://R-Forge.R-project.org
+RoxygenNote: 7.1.1

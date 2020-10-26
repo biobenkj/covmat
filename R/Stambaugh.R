@@ -8,7 +8,7 @@
 #' 
 #' @param  R xts or matrix of asset returns
 #' @param  ... allows passing additional paramters
-#' @importFrom factorAnalytics fitTsfm
+#' @importFrom FactorAnalytics fitTsfm
 #' @import  RCurl robust robustbase xts zoo CerioliOutlierDetection
 #' @author Rohit Arora
 #' @export

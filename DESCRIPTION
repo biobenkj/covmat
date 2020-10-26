@@ -2,7 +2,7 @@ Package: covmat
 Type: Package
 Title: Covariance Matrix Estimation
 Version: 1.1
-Date: 2015-09-25
+Date: 2020-10-26
 Author: Rohit Arora
 Maintainer: Rohit Arora <emailrohitarora@gmail.com>
 Description:  We implement a collection of techniques for estimating convariance matrices. 
@@ -19,7 +19,7 @@ Suggests: knitr, knitcitations, testthat, roxygen2, quantmod, PortfolioAnalytics
 VignetteBuilder: knitr
 LazyLoad: yes
 Imports: 
-  factorAnalytics,
+  FactorAnalytics,
   zoo,
   xts,
   robust, 
